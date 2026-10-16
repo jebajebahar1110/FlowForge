@@ -1,0 +1,28 @@
+.h1 {
+  color: #4f46e5;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: -1px;
+  margin-bottom: 12px;
+}
+
+.p1 {
+  color: #6b7280;
+  font-size: 16px;
+}
+
+.home {
+  padding: 48px 24px;
+}
+
+header {
+  padding: 20px 32px;
+  border-bottom: 1px solid #e5e7eb;
+  background-color: #ffffff;
+}
+
+header span {
+  color: #4f46e5;
+  font-size: 24px;
+  font-weight: 700;
+}
